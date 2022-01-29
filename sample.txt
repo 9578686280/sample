@@ -1,1 +1,4 @@
 welcome to github
+
+i learn in git commebds
+i learn git status
